@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Corona Indonesia</string>
+    <string name="province_name">Province Name</string>
+    <string name="count_cases_positive">Kasus Positif %1$s</string>
+    <string name="cases_positive">Positive</string>
+    <string name="cases_healed">Sembuh</string>
+    <string name="cases_negative">Meninggal</string>
+    <string name="zero">0</string>
+    <string name="about_me">Tentang Saya</string>
+    <string name="my_name">Irwan Hermawan</string>
+    <string name="my_email">rwnhermawan@gmail.com</string>
+    <string name="about">About</string>
+    <string name="search">Cari</string>
+    <string name="search_province">Cari Provinsi</string>
+</resources>
